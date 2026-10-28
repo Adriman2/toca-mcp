@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "bio.toca/toca",
+  "title": "Toca",
+  "description": "Manage a WhatsApp-first Toca link-in-bio page: profile, blocks, publish, stats, leads.",
+  "version": "1.0.0",
+  "websiteUrl": "https://toca.bio/conectar-ia",
+  "repository": { "url": "https://github.com/Adriman2/toca-mcp", "source": "github" },
+  "icons": [ { "src": "https://toca.bio/favicon.svg", "mimeType": "image/svg+xml" } ],
+  "remotes": [ { "type": "streamable-http", "url": "https://toca.bio/mcp" } ]
+}
